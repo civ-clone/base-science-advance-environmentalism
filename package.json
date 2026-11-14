@@ -13,7 +13,8 @@
   "files": [
     "Environmentalism.js",
     "Environmentalism.d.ts",
-    "Environmentalism.js.map"
+    "Environmentalism.js.map",
+    "Environmentalism.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
